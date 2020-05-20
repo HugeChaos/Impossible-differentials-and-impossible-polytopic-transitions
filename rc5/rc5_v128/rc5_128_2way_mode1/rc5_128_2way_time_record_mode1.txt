@@ -1,0 +1,12 @@
+After 0.0640001296997time, we found 1 rounds  2way impossible.
+
+After 23.5889999866time, we found 2 rounds  2way impossible.
+
+After 208.669000149time, we found 3 rounds  2way impossible.
+
+After 10749.326time, we found 4 rounds  2way impossible.
+
+After 14670.846time, we found 5 rounds  2way impossible.
+
+After 231697.842time, we show no 6 round  2way impossible.
+

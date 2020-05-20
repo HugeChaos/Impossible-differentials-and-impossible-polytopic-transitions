@@ -1,0 +1,2 @@
+After 120.64199996time, we found total 12 impossible 2way.
+

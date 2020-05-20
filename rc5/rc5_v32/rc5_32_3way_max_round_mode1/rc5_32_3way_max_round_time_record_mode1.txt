@@ -1,0 +1,2 @@
+After 65989.77time, we found total 108 impossible 3way.
+

@@ -1,0 +1,14 @@
+After 0.0270001888275time, we found 1 rounds  3way impossible.
+
+After 0.0410001277924time, we found 2 rounds  3way impossible.
+
+After 0.0950000286102time, we found 3 rounds  3way impossible.
+
+After 4.75699996948time, we found 4 rounds  3way impossible.
+
+After 3.125time, we found 5 rounds  3way impossible.
+
+After 3573.88400006time, we found 6 rounds  3way impossible.
+
+After 75673.9519999time, we show no 7 round  3way impossible.
+
