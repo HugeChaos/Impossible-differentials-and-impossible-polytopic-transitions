@@ -1,0 +1,12 @@
+After 1.39499998093time, we found 1 rounds impossible differential.
+
+After 0.644000053406time, we found 2 rounds impossible differential.
+
+After 0.913999795914time, we found 3 rounds impossible differential.
+
+After 1.41400003433time, we found 4 rounds impossible differential.
+
+After 2377.24299979time, we found 5 rounds impossible differential.
+
+After 125201.627time, we show no 6 round impossible differential.
+

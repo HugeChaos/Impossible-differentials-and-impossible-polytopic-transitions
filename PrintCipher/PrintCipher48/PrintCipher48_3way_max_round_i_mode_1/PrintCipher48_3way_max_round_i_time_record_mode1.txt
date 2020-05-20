@@ -1,0 +1,2 @@
+After 101376.224time, we found total 1448 6-rounds impossible differential.
+

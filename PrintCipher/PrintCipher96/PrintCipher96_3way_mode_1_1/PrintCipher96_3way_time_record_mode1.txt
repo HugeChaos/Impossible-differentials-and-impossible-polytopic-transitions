@@ -1,0 +1,14 @@
+After 0.225000143051time, we found 1 rounds impossible 3-polytopic trans.
+
+After 0.448999881744time, we found 2 rounds impossible 3-polytopic trans.
+
+After 0.719999790192time, we found 3 rounds impossible 3-polytopic trans.
+
+After 1.14599990845time, we found 4 rounds impossible 3-polytopic trans.
+
+After 9.12300014496time, we found 5 rounds impossible 3-polytopic trans.
+
+After 92.5859999657time, we found 6 rounds impossible 3-polytopic trans.
+
+After 954.368999958time, we found 7 rounds impossible 3-polytopic trans.
+
