@@ -1,0 +1,1 @@
+possible_value_up is [0, 2, 5, 7].

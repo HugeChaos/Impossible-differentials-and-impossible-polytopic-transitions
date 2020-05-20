@@ -1,0 +1,1 @@
+contradiction_position is [7].
