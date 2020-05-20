@@ -1,0 +1,2 @@
+After 644675.554time, we found total (1024) 4-round impossible differential.
+
