@@ -7,16 +7,14 @@ AES
 
 Gift64
 
-    Gift64_main_2way_compare.py
+    	Gift64_main_2way_compare.py
 	Gift64_model.py 
 	Gift64_model_diff.py
 	    get the 6-round impossible differentials which cannot be detected by Sun’s method or Sasaki’s method.
 		
 	Gift64_main_2way_prove.py
 	Gift64_model.py
-	    prove that, in the search space where the input difference only actives one S-box in the first substitution and the output difference only 
-		actives one S-box in the last substitution, there exists no 7-round impossible differentials for GIFT64 even taking account in the details
-		of the key schedule.
+	    prove that, in the search space where the input difference only actives one S-box in the first substitution and the output difference only actives one S-box in the last substitution, there exists no 7-round impossible differentials for GIFT64 even taking account in the details of the key schedule.
 	
 	Gift64_main_3way.py
 	Gift64_model.py
@@ -25,8 +23,7 @@ Gift64
 		
 Midori
 
-   	prove that, in the search space where the input difference only actives one S-box in the first substitution and the output difference only 
-	actives one S-box in the last substitution, there exists no 6-round impossible differentials for Midori64 even taking account in the detailsof the key schedule.
+   	prove that, in the search space where the input difference only actives one S-box in the first substitution and the output difference only actives one S-box in the last substitution, there exists no 6-round impossible differentials for Midori64 even taking account in the detailsof the key schedule.
 
 		 
 MISTY1
@@ -49,11 +46,9 @@ MISTY1
 
 Present
 
-    Present_main_2way.py
-    Present_model.py
-	    prove that, in the search space where the input difference only actives one S-box in the first substitution and the output difference only 
-	    actives one S-box in the last substitution, there exists no 7-round impossible differentials for Present even taking account in the details
-	    of the key schedule.
+    	Present_main_2way.py
+    	Present_model.py
+	    prove that, in the search space where the input difference only actives one S-box in the first substitution and the output difference only actives one S-box in the last substitution, there exists no 7-round impossible differentials for Present even taking account in the details of the key schedule.
 	
 	Present_main_4way_i.py
 	Present_model_i.py
